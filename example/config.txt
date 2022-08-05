@@ -1,0 +1,2 @@
+Prefix plugins/FCluster/example/
+Plugin FCluster inputfile output.pyrodist.fdist outputfile output.fcluster
